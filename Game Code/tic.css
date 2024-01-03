@@ -2,6 +2,12 @@ h1 {
 	color: orangered; 
 	margin-bottom: -5px; 
 } 
+body {
+	background-image: url(white-and-silver-hexagon-3d-abstract-animation-seamless-loop-ready-made-gaming-background-W6PM4D.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+  }
 p { 
 	margin-bottom: -10px; 
 } 
